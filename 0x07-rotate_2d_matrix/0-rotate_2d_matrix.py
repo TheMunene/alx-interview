@@ -1,7 +1,6 @@
 #!/usr/bin/python3
 """Rotate 2D Matrix"""
 
-
 def rotate_2d_matrix(matrix):
     """This solution uses nested loops to access each
       element of the matrix and swap its values with the elements
