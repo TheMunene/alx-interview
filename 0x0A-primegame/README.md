@@ -4,7 +4,7 @@
 
 ## Tests :heavy_check_mark:
 
-<a href=''>Test Files</a>
+<a href='https://github.com/TheMunene/alx-interview/blob/master/0x0A-primegame/0-main.py'>Test Files</a>
 
 ## Tasks :page_with_curl:
 
